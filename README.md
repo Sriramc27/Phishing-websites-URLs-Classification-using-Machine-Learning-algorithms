@@ -1,1 +1,1 @@
-# Phishing-websites-URLs-Classification-using-Machine-Learning-algorithms
+Phishing are one of the most common and most dangerous attacks among cybercrimes. The aim of these attacks is to steal the information used by individuals and organizations to conduct transactions. Phishing websites contain various hints among their contents and web browser-based information. The primary objective of this project is to classify the websites based on the features and predict whether the website is phished or not.
